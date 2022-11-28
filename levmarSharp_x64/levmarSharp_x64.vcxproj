@@ -239,7 +239,6 @@
     <ClCompile Include="AssemblyInfo.cpp" />
     <ClCompile Include="Axb.cpp" />
     <ClCompile Include="convolution.cpp" />
-    <ClCompile Include="deconvolution.cpp" />
     <ClCompile Include="LevmarSharp.cpp" />
     <ClCompile Include="lm-double.cpp" />
     <ClCompile Include="lm-single.cpp" />
