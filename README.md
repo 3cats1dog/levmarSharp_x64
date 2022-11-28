@@ -7,7 +7,7 @@ Code base on https://github.com/AvengerDr/LevmarSharp but this version support o
 Levmar side is same signature;
 
 <code>
-int LevmarDif(LevmarFunc^ f, array<double>^% p, array<double>^ x, int m, int n, int itmax, array<double>^ opts, array<double>^% info, IntPtr data);
+int LevmarDif(LevmarFunc^ f, array<double>^% p, array<double>^ x, int m, int n, int itmax, array<double>^ opts, array<double>^% info, IntPtr data);\r\n
 int LevmarDif(LevmarFunc^ f, array<double>^% p, array<double>^ x, int m, int n, int itmax, array<double>^ opts, array<double>^% info);
 
 int LevmarDer(LevmarFunc^ f, LevmarJacf^ j, array<double>^% p, array<double>^ x, int m, int n, int itmax, array<double>^ opts, array<double>^% info);
