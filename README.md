@@ -1,4 +1,4 @@
-Levenberg-Marquardt nonlinear least squares algorithms for C# (.NET users
+Levenberg-Marquardt nonlinear least squares algorithms for C# (.NET users)
 
 Base calculation code from http://users.ics.forth.gr/~lourakis/levmar/index.html
 
