@@ -15,5 +15,8 @@ FFT library's from http://www.fftw.org/download.html
   <code> fft, stepresponse_conv, stepresponse_deconv, conv ,deconv  </code>
 
 For usage; have to use both dll (fft library not referancable, but have to in same directory)
+
 levmarSharp_x64.dll
+
 libfftw3-3.dll
+
