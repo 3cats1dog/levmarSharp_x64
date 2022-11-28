@@ -240,15 +240,11 @@
     <ClCompile Include="Axb.cpp" />
     <ClCompile Include="convolution.cpp" />
     <ClCompile Include="deconvolution.cpp" />
-    <ClCompile Include="expfit.cpp" />
     <ClCompile Include="LevmarSharp.cpp" />
     <ClCompile Include="lm-double.cpp" />
     <ClCompile Include="lm-single.cpp" />
     <ClCompile Include="misc_single.cpp" />
     <ClCompile Include="stdafx.cpp" />
-    <ClCompile Include="lmbc_double.cpp" />
-    <ClCompile Include="lmbc_single.cpp" />
-    <ClCompile Include="lmdemo.cpp" />
     <ClCompile Include="misc_double.cpp" />
   </ItemGroup>
   <ItemGroup>

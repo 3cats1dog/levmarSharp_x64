@@ -18,19 +18,7 @@
     <ClCompile Include="Axb.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="expfit.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lmbc_double.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lmdemo.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="misc_double.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="lmbc_single.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="misc_single.cpp">

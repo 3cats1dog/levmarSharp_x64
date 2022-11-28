@@ -12,9 +12,8 @@ using namespace System::Security::Permissions;
 // associated with an assembly.
 //
 [assembly:AssemblyTitleAttribute("LevmarSharp")];
-[assembly:AssemblyDescriptionAttribute("C# Wrapper for Levmar 2.6 unconstrained")] ;
+[assembly:AssemblyDescriptionAttribute("C# (x64) Wrapper for Levmar 2.6 unconstrained")] ;
 [assembly:AssemblyConfigurationAttribute("")] ;
-[assembly:AssemblyCompanyAttribute("Adalberto Simeone")] ;
 [assembly:AssemblyProductAttribute("LevmarSharp")] ;
 [assembly:AssemblyCopyrightAttribute("GPLV3")] ;
 [assembly:AssemblyTrademarkAttribute("http://www.avengersutd.com/blog")] ;
